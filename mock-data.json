@@ -1,0 +1,18 @@
+[
+  {
+    "TransactionId": "T-1001",
+    "CardNumber": "4111111111111111",
+    "LocationCode": "LOC01",
+    "ProductName": "Widget A",
+    "Amount": 19.99,
+    "Timestamp": "2026-03-12T12:00:00Z"
+  },
+  {
+    "TransactionId": "T-1002",
+    "CardNumber": "5555444433332222",
+    "LocationCode": "LOC02",
+    "ProductName": "Widget B",
+    "Amount": 29.99,
+    "Timestamp": "2026-03-12T13:00:00Z"
+  }
+]
