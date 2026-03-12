@@ -92,6 +92,8 @@ CodingExerciseTransactions/
 ├─ migrations/                    # EF Core migrations
 └─ README.md
 
+```
+
 ---
 
 ## Setup & Build
